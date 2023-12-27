@@ -1,0 +1,15 @@
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\bin\Debug\net7.0\Snake.exe
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\bin\Debug\net7.0\Snake.deps.json
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\bin\Debug\net7.0\Snake.runtimeconfig.json
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\bin\Debug\net7.0\Snake.dll
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\bin\Debug\net7.0\Snake.pdb
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.csproj.AssemblyReference.cache
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.AssemblyInfoInputs.cache
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.AssemblyInfo.cs
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.csproj.CoreCompileInputs.cache
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.dll
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\refint\Snake.dll
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.pdb
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\Snake.genruntimeconfig.cache
+D:\Progect\C#\NET.Cours\.NET-Crash-Course-2023\Snake\Snake\obj\Debug\net7.0\ref\Snake.dll
